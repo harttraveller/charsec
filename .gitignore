@@ -4,7 +4,7 @@
 .ruff_cache
 
 hidden.jpeg
-
+publish.sh
 # Python-generated files
 __pycache__/
 *.py[oc]
