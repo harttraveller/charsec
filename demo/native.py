@@ -1,3 +1,13 @@
+"""
+If you run this with:
+
+```sh
+python native.py
+```
+
+It will execute the hidden code.
+"""
+
 # 󠅙󠅝󠅠󠅟󠅢󠅤󠄐󠅧󠅕󠅒󠅒󠅢󠅟󠅧󠅣󠅕󠅢︊︊󠅧󠅕󠅒󠅒󠅢󠅟󠅧󠅣󠅕󠅢󠄞󠅟󠅠󠅕󠅞󠄘󠄒󠅘󠅤󠅤󠅠󠅣󠄪󠄟󠄟󠅧󠅧󠅧󠄞󠅩󠅟󠅥󠅤󠅥󠅒󠅕󠄞󠅓󠅟󠅝󠄟󠅧󠅑󠅤󠅓󠅘󠄯󠅦󠄭󠅨󠅦󠄶󠅊󠅚󠅟󠄥󠅀󠅗󠄷󠄠󠄒󠄙!/usr/bin/python3
 
 
