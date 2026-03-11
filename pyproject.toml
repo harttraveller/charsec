@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "charsec"
+version = "0.1.0"
+description = "Hide arbitrary data in text."
+readme = "README.md"
+authors = [{ name = "Hart Traveller", email = "ruling_fiction.0b@icloud.com" }]
+requires-python = ">=3.13"
+dependencies = ["cyclopts>=4.8.0"]
+
+[dependency-groups]
+dev = ["ipykernel>=7.2.0", "pyright>=1.1.408", "pytest>=9.0.2", "ruff>=0.15.5"]
+
+[project.scripts]
+charsec = "charsec.__main__:app"
